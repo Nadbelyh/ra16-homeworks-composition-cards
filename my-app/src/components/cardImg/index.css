@@ -1,0 +1,11 @@
+.card-img {
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #868e96;
+}
+
+.card-img img {
+    width: 100%;
+}
